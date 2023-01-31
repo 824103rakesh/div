@@ -1,0 +1,10 @@
+body{
+    background-color: rgb(171, 128, 128);
+    width: 100px;
+    height: 100px;
+}
+grid container{
+background-color: yellow;
+display: grid;
+grid-template-columns: auto,auto,auto;
+}

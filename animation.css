@@ -1,0 +1,20 @@
+*{
+    background: rgb(82, 194, 168);
+}
+.container{
+    width: 400px;
+    height: 400px;
+    background: rgb(139, 139, 154);
+
+}
+.child{
+    width: 100px;
+    height: 100px;
+    background: orange;
+   /* transition:all 2s ease-in-out;*/
+}
+.container:hover > .child{
+  /*  transform: translatex(500%);
+    background-color: blueviolet;*/
+     
+}

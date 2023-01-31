@@ -1,0 +1,7 @@
+.insta{
+    width:100px;
+    height:100px;
+    background color:red;
+    place-items: center;
+    display:grid;
+}
